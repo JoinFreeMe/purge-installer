@@ -17,7 +17,7 @@
 
 #Be sure to enable FTP in DL settings and launch Aurora as FTP
 #does not seem to work natively through DL
-Server="192.168.100.13"
+Server="0.0.0.0"
 FTPuser="xbox"
 FTPpass="xbox"
 Directory="/Hdd1/"
