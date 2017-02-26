@@ -21,7 +21,7 @@ $Purge : set to the xex name
 # note :
  
 FTP may not work nativly on the console even when set in DashLaunch.
-> This can be fixed by launch Aurora
+> This can be fixed by launching Aurora
 
 
 # Process that this lets you skip :
