@@ -6,10 +6,15 @@ Decided to make this script as the xbdm cannot be utilized from a linux machine 
 # Vars :
 
 $Server : set to the local IP address of the machine
+
 $FTPuser : by default this is set to "xbox"
+
 $FTPpass : by default this is set to "xbox"
+
 $Directory : by default this is set to /Hdd1/
+
 $Update : set to the update url 
+
 $Purge : set to the xex name 
 
 
